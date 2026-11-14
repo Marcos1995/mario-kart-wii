@@ -1,4 +1,4 @@
 :HL["/mario-kart-wii/_next/static/chunks/1gy4sy3v3lu46.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"ZRPZlZbTLyC8Uql5azHSk","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ayAkumvDAqSLAW3I0XBKe","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
