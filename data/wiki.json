@@ -1,0 +1,727 @@
+{
+  "1": {
+    "course": "Mario Circuit",
+    "description": "A VS. race with Chain Chomps running loose on the track, along with extra Goombas roaming around.",
+    "restrictions": ""
+  },
+  "49": {
+    "course": "Mario Circuit",
+    "description": "A VS. race with Chain Chomps running loose on the track, along with extra Goombas roaming around.",
+    "restrictions": "Karts and Wii Wheel only"
+  },
+  "2": {
+    "course": "GBA Battle Course 3",
+    "description": "The player had to drive through ten numbered gates that were placed on the track in order. Item Boxes only contained Mushrooms.",
+    "restrictions": "Wii Wheel only"
+  },
+  "50": {
+    "course": "GBA Battle Course 3",
+    "description": "The player had to drive through ten numbered gates that were placed on the track in order. Item Boxes only contained Mushrooms.",
+    "restrictions": "Wii Wheel only"
+  },
+  "86": {
+    "course": "GBA Battle Course 3",
+    "description": "The player had to drive through ten numbered gates that were placed on the track in order. Item Boxes only contained Mushrooms.",
+    "restrictions": "Wii Wheel only"
+  },
+  "115": {
+    "course": "GBA Battle Course 3",
+    "description": "The player had to drive through ten numbered gates that were placed on the track in order. Item Boxes only contained Mushrooms.",
+    "restrictions": "Wii Wheel only"
+  },
+  "144": {
+    "course": "GBA Battle Course 3",
+    "description": "The player had to drive through ten numbered gates that were placed on the track in order. Item Boxes only contained Mushrooms.",
+    "restrictions": "Wii Wheel only"
+  },
+  "3": {
+    "course": "Galaxy Colosseum",
+    "description": "The player had to defeat four Spiky Topmen off of the arena by knocking them off of the platform using Triple Mushrooms. The player would face the first two Spiky Topmen one at a time before facing the last two simultaneously.",
+    "restrictions": ""
+  },
+  "28": {
+    "course": "Galaxy Colosseum",
+    "description": "The player had to push six Spiky Topmen off the stage using Triple Mushrooms. Spiky Topmen spawned in groups of 2. However, as time progressed, portions of the stage fell off.",
+    "restrictions": ""
+  },
+  "46": {
+    "course": "Galaxy Colosseum",
+    "description": "Like the second June 2009 tournament, the player had to push a total of six Spiky Topmen off the stage. However, some of the Topmen would run away, and the stage wouldn’t get smaller over time.",
+    "restrictions": ""
+  },
+  "4": {
+    "course": "Mushroom Gorge",
+    "description": "The player had to get the fastest possible time driving backwards for the entire course. Some of the Mushroom Trampolines and Mushroom Platforms were also placed at different locations.",
+    "restrictions": "Karts only"
+  },
+  "51": {
+    "course": "Mushroom Gorge",
+    "description": "The player had to get the fastest possible time driving backwards for the entire course. Some of the Mushroom Trampolines and Mushroom Platforms were also placed at different locations.",
+    "restrictions": "Karts only"
+  },
+  "87": {
+    "course": "Mushroom Gorge",
+    "description": "The player had to get the fastest possible time driving backwards for the entire course. Some of the Mushroom Trampolines and Mushroom Platforms were also placed at different locations.",
+    "restrictions": "Karts only"
+  },
+  "145": {
+    "course": "Mushroom Gorge",
+    "description": "The player had to get the fastest possible time driving backwards for the entire course. Some of the Mushroom Trampolines and Mushroom Platforms were also placed at different locations.",
+    "restrictions": "Karts only"
+  },
+  "5": {
+    "course": "Coconut Mall",
+    "description": "The Tournament took place within the courtyard section of Coconut Mall. The player had to collect all 50 coins in the least time possible.",
+    "restrictions": ""
+  },
+  "53": {
+    "course": "Coconut Mall",
+    "description": "The Tournament took place within the courtyard section of Coconut Mall. The player had to collect all 50 coins in the least time possible.",
+    "restrictions": ""
+  },
+  "88": {
+    "course": "Coconut Mall",
+    "description": "The Tournament took place within the courtyard section of Coconut Mall. The player had to collect all 50 coins in the least time possible.",
+    "restrictions": ""
+  },
+  "117": {
+    "course": "Coconut Mall",
+    "description": "The Tournament took place within the courtyard section of Coconut Mall. The player had to collect all 50 coins in the least time possible.",
+    "restrictions": ""
+  },
+  "6": {
+    "course": "DS Twilight House",
+    "description": "The battle course was repurposed into a race course that took place around the rooms of the house. The player had to beat the CPUs in a five-lap VS. race.",
+    "restrictions": "Wii Wheel only"
+  },
+  "54": {
+    "course": "DS Twilight House",
+    "description": "The battle course was repurposed into a race course that took place around the rooms of the house. The player had to beat the CPUs in a five-lap VS. race.",
+    "restrictions": "Wii Wheel only"
+  },
+  "7": {
+    "course": "N64 DK's Jungle Parkway",
+    "description": "The player had to race against Donkey Kong and Diddy Kong, who were constantly throwing bananas on the track. The only items available were Green Shells, Triple Green Shells, and occasionally a Star.",
+    "restrictions": ""
+  },
+  "40": {
+    "course": "N64 DK's Jungle Parkway",
+    "description": "The player had to race against Donkey Kong and Diddy Kong, who were constantly throwing bananas on the track. The only items available were Green Shells, Triple Green Shells, and occasionally a Star.",
+    "restrictions": ""
+  },
+  "8": {
+    "course": "Koopa Cape",
+    "description": "The player had to drive through all 25 gates in order.",
+    "restrictions": ""
+  },
+  "56": {
+    "course": "Koopa Cape",
+    "description": "The player had to drive through all 25 gates in order.",
+    "restrictions": ""
+  },
+  "90": {
+    "course": "Koopa Cape",
+    "description": "The player had to drive through all 25 gates in order.",
+    "restrictions": ""
+  },
+  "119": {
+    "course": "Koopa Cape",
+    "description": "The player had to drive through all 25 gates in order.",
+    "restrictions": ""
+  },
+  "9": {
+    "course": "N64 Skyscraper",
+    "description": "The battle course was repurposed into a race course that took place around the outside of the course. Players had to finish three laps in the least time possible. Colliding with Bob-omb Cars would lead to time lost.",
+    "restrictions": "Wii Wheel only"
+  },
+  "57": {
+    "course": "N64 Skyscraper",
+    "description": "The battle course was repurposed into a race course that took place around the outside of the course. Players had to finish three laps in the least time possible. Colliding with Bob-omb Cars would lead to time lost.",
+    "restrictions": "Wii Wheel only"
+  },
+  "91": {
+    "course": "N64 Skyscraper",
+    "description": "The battle course was repurposed into a race course that took place around the outside of the course. Players had to finish three laps in the least time possible. Colliding with Bob-omb Cars would lead to time lost.",
+    "restrictions": "Wii Wheel only"
+  },
+  "120": {
+    "course": "N64 Skyscraper",
+    "description": "The battle course was repurposed into a race course that took place around the outside of the course. Players had to finish three laps in the least time possible. Colliding with Bob-omb Cars would lead to time lost.",
+    "restrictions": "Wii Wheel only"
+  },
+  "10": {
+    "course": "SNES Mario Circuit 3",
+    "description": "The player had to collect all 40 coins on the track in the least time possible. The player started off with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "59": {
+    "course": "SNES Mario Circuit 3",
+    "description": "The player had to collect all 40 coins on the track in the least time possible. The player started off with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "92": {
+    "course": "SNES Mario Circuit 3",
+    "description": "The player had to collect all 40 coins on the track in the least time possible. The player started off with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "121": {
+    "course": "SNES Mario Circuit 3",
+    "description": "The player had to collect all 40 coins on the track in the least time possible. The player started off with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "11": {
+    "course": "Thwomp Desert",
+    "description": "The player had to use Bob-ombs to defeat the giant Pokey, who attacked by throwing segments of its body at the player. Notably, playing in this competition then playing a battle in Thwomp Desert without restarting the game changed the sand physics to work like the tournament, which would cause desyncs during online play.",
+    "restrictions": ""
+  },
+  "34": {
+    "course": "Thwomp Desert",
+    "description": "The player had to use Bob-ombs to defeat the giant Pokey, who attacked by throwing segments of its body at the player. Notably, playing in this competition then playing a battle in Thwomp Desert without restarting the game changed the sand physics to work like the tournament, which would cause desyncs during online play.",
+    "restrictions": ""
+  },
+  "12": {
+    "course": "Luigi Circuit",
+    "description": "The player had to race CPUs, with no item boxes.",
+    "restrictions": "Karts and Wii Wheel only"
+  },
+  "45": {
+    "course": "Luigi Circuit",
+    "description": "The player had to race CPUs, with no item boxes.",
+    "restrictions": "Bikes and Wii Wheel only"
+  },
+  "60": {
+    "course": "Luigi Circuit",
+    "description": "The player had to race CPUs, with no item boxes.",
+    "restrictions": "Karts and Wii Wheel only"
+  },
+  "13": {
+    "course": "Maple Treeway",
+    "description": "The player had to collect all fifteen coins that were hidden in the leaves in the least time possible. Five Wigglers were roaming the area",
+    "restrictions": ""
+  },
+  "61": {
+    "course": "Maple Treeway",
+    "description": "The player had to collect all fifteen coins that were hidden in the leaves in the least time possible. Five Wigglers were roaming the area",
+    "restrictions": ""
+  },
+  "93": {
+    "course": "Maple Treeway",
+    "description": "The player had to collect all fifteen coins that were hidden in the leaves in the least time possible. Five Wigglers were roaming the area",
+    "restrictions": ""
+  },
+  "122": {
+    "course": "Maple Treeway",
+    "description": "The player had to collect all fifteen coins that were hidden in the leaves in the least time possible. Five Wigglers were roaming the area",
+    "restrictions": ""
+  },
+  "14": {
+    "course": "N64 Mario Raceway",
+    "description": "The player had to finish the course in the least time possible. Only Golden Mushrooms would appear in Item Boxes. Many obstacles from other race courses also appeared in this Tournament. Obstacles include oil slicks from SNES Mario Circuit 3 and Pokeys from Dry Dry Ruins and DS Desert Hills. Additionally, extra Piranha Plants were on the course as well.",
+    "restrictions": ""
+  },
+  "62": {
+    "course": "N64 Mario Raceway",
+    "description": "The player had to finish the course in the least time possible. Only Golden Mushrooms would appear in Item Boxes. Many obstacles from other race courses also appeared in this Tournament. Obstacles include oil slicks from SNES Mario Circuit 3 and Pokeys from Dry Dry Ruins and DS Desert Hills. Additionally, extra Piranha Plants were on the course as well.",
+    "restrictions": ""
+  },
+  "94": {
+    "course": "N64 Mario Raceway",
+    "description": "The player had to finish the course in the least time possible. Only Golden Mushrooms would appear in Item Boxes. Many obstacles from other race courses also appeared in this Tournament. Obstacles include oil slicks from SNES Mario Circuit 3 and Pokeys from Dry Dry Ruins and DS Desert Hills. Additionally, extra Piranha Plants were on the course as well.",
+    "restrictions": ""
+  },
+  "123": {
+    "course": "N64 Mario Raceway",
+    "description": "The player had to finish the course in the least time possible. Only Golden Mushrooms would appear in Item Boxes. Many obstacles from other race courses also appeared in this Tournament. Obstacles include oil slicks from SNES Mario Circuit 3 and Pokeys from Dry Dry Ruins and DS Desert Hills. Additionally, extra Piranha Plants were on the course as well.",
+    "restrictions": ""
+  },
+  "15": {
+    "course": "Wario's Gold Mine",
+    "description": "The player had to get past a rampaging Wiggler that was roaming around the course within 3 laps. Only Triple Mushrooms and Stars would appear in Item Boxes.",
+    "restrictions": ""
+  },
+  "58": {
+    "course": "Wario's Gold Mine",
+    "description": "The player had to get past a rampaging Wiggler that was roaming around the course within 3 laps. Only Triple Mushrooms and Stars would appear in Item Boxes.",
+    "restrictions": ""
+  },
+  "16": {
+    "course": "DK Summit",
+    "description": "The player had to go through all 25 gates on the course.",
+    "restrictions": ""
+  },
+  "64": {
+    "course": "DK Summit",
+    "description": "The player had to go through all 25 gates on the course.",
+    "restrictions": ""
+  },
+  "95": {
+    "course": "DK Summit",
+    "description": "The player had to go through all 25 gates on the course.",
+    "restrictions": ""
+  },
+  "124": {
+    "course": "DK Summit",
+    "description": "The player had to go through all 25 gates on the course.",
+    "restrictions": ""
+  },
+  "17": {
+    "course": "Toad's Factory",
+    "description": "The player had to drive through the course, which was backwards, as quickly as possible. Item Boxes contained Mushrooms.",
+    "restrictions": ""
+  },
+  "65": {
+    "course": "Toad's Factory",
+    "description": "The player had to drive through the course, which was backwards, as quickly as possible. Item Boxes contained Mushrooms.",
+    "restrictions": ""
+  },
+  "96": {
+    "course": "Toad's Factory",
+    "description": "The player had to drive through the course, which was backwards, as quickly as possible. Item Boxes contained Mushrooms.",
+    "restrictions": ""
+  },
+  "125": {
+    "course": "Toad's Factory",
+    "description": "The player had to drive through the course, which was backwards, as quickly as possible. Item Boxes contained Mushrooms.",
+    "restrictions": ""
+  },
+  "18": {
+    "course": "Funky Stadium",
+    "description": "The player had to collect all 60 coins on the track. All Item Boxes contained Mushrooms.",
+    "restrictions": ""
+  },
+  "66": {
+    "course": "Funky Stadium",
+    "description": "The player had to collect all 60 coins on the track. All Item Boxes contained Mushrooms.",
+    "restrictions": ""
+  },
+  "97": {
+    "course": "Funky Stadium",
+    "description": "The player had to collect all 60 coins on the track. All Item Boxes contained Mushrooms.",
+    "restrictions": ""
+  },
+  "126": {
+    "course": "Funky Stadium",
+    "description": "The player had to collect all 60 coins on the track. All Item Boxes contained Mushrooms.",
+    "restrictions": ""
+  },
+  "19": {
+    "course": "Block Plaza",
+    "description": "A time trial race around the edge of the course. Some of the paths were blocked, so the player had to use the slopes to proceed. The player was given Triple Mushrooms to start the Time Trial, and obstacles include Goombas, pipes, and oil slicks. In its first appearance, the tournament description incorrectly displayed the tournament for GBA Bowser's Castle 3 instead of Block Plaza.",
+    "restrictions": ""
+  },
+  "68": {
+    "course": "GBA Bowser's Castle 3",
+    "description": "The player had to go through all 30 gates placed in various locations along the course.",
+    "restrictions": ""
+  },
+  "98": {
+    "course": "Block Plaza",
+    "description": "A time trial race around the edge of the course. Some of the paths were blocked, so the player had to use the slopes to proceed. The player was given Triple Mushrooms to start the Time Trial, and obstacles include Goombas, pipes, and oil slicks. In its first appearance, the tournament description incorrectly displayed the tournament for GBA Bowser's Castle 3 instead of Block Plaza.",
+    "restrictions": ""
+  },
+  "127": {
+    "course": "Block Plaza",
+    "description": "A time trial race around the edge of the course. Some of the paths were blocked, so the player had to use the slopes to proceed. The player was given Triple Mushrooms to start the Time Trial, and obstacles include Goombas, pipes, and oil slicks. In its first appearance, the tournament description incorrectly displayed the tournament for GBA Bowser's Castle 3 instead of Block Plaza.",
+    "restrictions": ""
+  },
+  "20": {
+    "course": "GBA Bowser's Castle 3",
+    "description": "The player had to go through all 30 gates placed in various locations along the course.",
+    "restrictions": ""
+  },
+  "99": {
+    "course": "GBA Bowser's Castle 3",
+    "description": "The player had to go through all 30 gates placed in various locations along the course.",
+    "restrictions": ""
+  },
+  "128": {
+    "course": "GBA Bowser's Castle 3",
+    "description": "The player had to go through all 30 gates placed in various locations along the course.",
+    "restrictions": ""
+  },
+  "21": {
+    "course": "SNES Battle Course 4",
+    "description": "The player had to collect all 50 coins in the area. Extra hazards such as oil slicks were on the course.",
+    "restrictions": ""
+  },
+  "69": {
+    "course": "SNES Battle Course 4",
+    "description": "The player had to collect all 50 coins in the area. Extra hazards such as oil slicks were on the course.",
+    "restrictions": ""
+  },
+  "100": {
+    "course": "SNES Battle Course 4",
+    "description": "The player had to collect all 50 coins in the area. Extra hazards such as oil slicks were on the course.",
+    "restrictions": ""
+  },
+  "129": {
+    "course": "SNES Battle Course 4",
+    "description": "The player had to collect all 50 coins in the area. Extra hazards such as oil slicks were on the course.",
+    "restrictions": ""
+  },
+  "22": {
+    "course": "N64 Bowser's Castle",
+    "description": "The player had to race against Dry Bowser, who was given the ability to spit out fireballs. Items that appeared include Mushrooms, Triple Bananas, Stars, and Triple Green Shells.",
+    "restrictions": "Karts only"
+  },
+  "52": {
+    "course": "N64 Bowser's Castle",
+    "description": "The player had to race against Dry Bowser, who was given the ability to spit out fireballs. Items that appeared include Mushrooms, Triple Bananas, Stars, and Triple Green Shells.",
+    "restrictions": ""
+  },
+  "70": {
+    "course": "N64 Bowser's Castle",
+    "description": "The player had to race against Dry Bowser, who was given the ability to spit out fireballs. Items that appeared include Mushrooms, Triple Bananas, Stars, and Triple Green Shells.",
+    "restrictions": "Karts only"
+  },
+  "23": {
+    "course": "GCN Waluigi Stadium",
+    "description": "The player had to go through all 25 gates on the course.",
+    "restrictions": ""
+  },
+  "71": {
+    "course": "GCN Waluigi Stadium",
+    "description": "The player had to go through all 25 gates on the course.",
+    "restrictions": ""
+  },
+  "101": {
+    "course": "GCN Waluigi Stadium",
+    "description": "The player had to go through all 25 gates on the course.",
+    "restrictions": ""
+  },
+  "130": {
+    "course": "GCN Waluigi Stadium",
+    "description": "The player had to go through all 25 gates on the course.",
+    "restrictions": ""
+  },
+  "24": {
+    "course": "DS Peach Gardens",
+    "description": "A time trial race with additional Chain Chomps and Monty Moles, and all Item Boxes containing Mushrooms.",
+    "restrictions": ""
+  },
+  "72": {
+    "course": "DS Peach Gardens",
+    "description": "A time trial race with additional Chain Chomps and Monty Moles, and all Item Boxes containing Mushrooms.",
+    "restrictions": ""
+  },
+  "102": {
+    "course": "DS Peach Gardens",
+    "description": "A time trial race with additional Chain Chomps and Monty Moles, and all Item Boxes containing Mushrooms.",
+    "restrictions": ""
+  },
+  "131": {
+    "course": "DS Peach Gardens",
+    "description": "A time trial race with additional Chain Chomps and Monty Moles, and all Item Boxes containing Mushrooms.",
+    "restrictions": ""
+  },
+  "25": {
+    "course": "Luigi Circuit",
+    "description": "A VS race at sunset (like the game's credits) with Bob-omb Cars from Moonview Highway added.",
+    "restrictions": ""
+  },
+  "26": {
+    "course": "Chain Chomp Wheel",
+    "description": "The player had to collect all 100 coins while avoiding the Chain Chomps. Item Boxes contained Mushrooms, Mega Mushrooms, and Stars.",
+    "restrictions": "Wii Wheel only"
+  },
+  "73": {
+    "course": "Chain Chomp Wheel",
+    "description": "The player had to collect all 100 coins while avoiding the Chain Chomps. Item Boxes contained Mushrooms, Mega Mushrooms, and Stars.",
+    "restrictions": "Wii Wheel only"
+  },
+  "103": {
+    "course": "Chain Chomp Wheel",
+    "description": "The player had to collect all 100 coins while avoiding the Chain Chomps. Item Boxes contained Mushrooms, Mega Mushrooms, and Stars.",
+    "restrictions": "Wii Wheel only"
+  },
+  "132": {
+    "course": "Chain Chomp Wheel",
+    "description": "The player had to collect all 100 coins while avoiding the Chain Chomps. Item Boxes contained Mushrooms, Mega Mushrooms, and Stars.",
+    "restrictions": "Wii Wheel only"
+  },
+  "27": {
+    "course": "Grumble Volcano",
+    "description": "The player did a time trial race around the course backwards. The player started out with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "74": {
+    "course": "Grumble Volcano",
+    "description": "The player did a time trial race around the course backwards. The player started out with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "104": {
+    "course": "Grumble Volcano",
+    "description": "The player did a time trial race around the course backwards. The player started out with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "133": {
+    "course": "Grumble Volcano",
+    "description": "The player did a time trial race around the course backwards. The player started out with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "29": {
+    "course": "GCN Peach Beach",
+    "description": "The player had to collect all 70 coins that were scattered on the beach. Cataquacks also appeared, and the Item Boxes contained Green Shells.",
+    "restrictions": ""
+  },
+  "75": {
+    "course": "GCN Peach Beach",
+    "description": "The player had to collect all 70 coins that were scattered on the beach. Cataquacks also appeared, and the Item Boxes contained Green Shells.",
+    "restrictions": ""
+  },
+  "30": {
+    "course": "DS Yoshi Falls",
+    "description": "A VS Race, but Mushroom Trampolines from Mushroom Gorge appeared on the course.",
+    "restrictions": "Wii Wheel only"
+  },
+  "31": {
+    "course": "GBA Shy Guy Beach",
+    "description": "The player had to go up against a swarm of Sidesteppers and defeat 30 of them, like they did in one of the Mario Kart DS missions. The left item box contained Stars. The center item box contained Triple Green Shells. The right item box contained Bob-ombs.",
+    "restrictions": ""
+  },
+  "76": {
+    "course": "GBA Shy Guy Beach",
+    "description": "The player had to go up against a swarm of Sidesteppers and defeat 30 of them, like they did in one of the Mario Kart DS missions. The left item box contained Stars. The center item box contained Triple Green Shells. The right item box contained Bob-ombs.",
+    "restrictions": ""
+  },
+  "105": {
+    "course": "GBA Shy Guy Beach",
+    "description": "The player had to go up against a swarm of Sidesteppers and defeat 30 of them, like they did in one of the Mario Kart DS missions. The left item box contained Stars. The center item box contained Triple Green Shells. The right item box contained Bob-ombs.",
+    "restrictions": ""
+  },
+  "134": {
+    "course": "GBA Shy Guy Beach",
+    "description": "The player had to go up against a swarm of Sidesteppers and defeat 30 of them, like they did in one of the Mario Kart DS missions. The left item box contained Stars. The center item box contained Triple Green Shells. The right item box contained Bob-ombs.",
+    "restrictions": ""
+  },
+  "32": {
+    "course": "Bowser's Castle",
+    "description": "A time trial race containing several hazards, such as Swooper swarms, more lava springs, and scattered boxes. Thwomps were also placed at different spots, preferably spots that were more likely to hinder the player. The spinning firebars also moved faster than before. The player started out with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "77": {
+    "course": "Bowser's Castle",
+    "description": "A time trial race containing several hazards, such as Swooper swarms, more lava springs, and scattered boxes. Thwomps were also placed at different spots, preferably spots that were more likely to hinder the player. The spinning firebars also moved faster than before. The player started out with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "106": {
+    "course": "Bowser's Castle",
+    "description": "A time trial race containing several hazards, such as Swooper swarms, more lava springs, and scattered boxes. Thwomps were also placed at different spots, preferably spots that were more likely to hinder the player. The spinning firebars also moved faster than before. The player started out with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "135": {
+    "course": "Bowser's Castle",
+    "description": "A time trial race containing several hazards, such as Swooper swarms, more lava springs, and scattered boxes. Thwomps were also placed at different spots, preferably spots that were more likely to hinder the player. The spinning firebars also moved faster than before. The player started out with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "33": {
+    "course": "GCN Cookie Land",
+    "description": "The player faced off against the babies in a 5-lap race.",
+    "restrictions": "Bikes only"
+  },
+  "35": {
+    "course": "GCN Mario Circuit",
+    "description": "A time trial race with additional enemies, mostly Piranha Plants, which were placed on the road. There was only one Item Box, which contained a Mushroom. The player did not start with any items.",
+    "restrictions": ""
+  },
+  "78": {
+    "course": "GCN Mario Circuit",
+    "description": "A time trial race with additional enemies, mostly Piranha Plants, which were placed on the road. There was only one Item Box, which contained a Mushroom. The player did not start with any items.",
+    "restrictions": ""
+  },
+  "107": {
+    "course": "GCN Mario Circuit",
+    "description": "A time trial race with additional enemies, mostly Piranha Plants, which were placed on the road. There was only one Item Box, which contained a Mushroom. The player did not start with any items.",
+    "restrictions": ""
+  },
+  "136": {
+    "course": "GCN Mario Circuit",
+    "description": "A time trial race with additional enemies, mostly Piranha Plants, which were placed on the road. There was only one Item Box, which contained a Mushroom. The player did not start with any items.",
+    "restrictions": ""
+  },
+  "36": {
+    "course": "Daisy Circuit",
+    "description": "The player had to go through a total of 22 gates, which were placed around the figure-8 area of the track. A single Mushroom was placed around the starting area.",
+    "restrictions": ""
+  },
+  "79": {
+    "course": "Daisy Circuit",
+    "description": "The player had to go through a total of 22 gates, which were placed around the figure-8 area of the track. A single Mushroom was placed around the starting area.",
+    "restrictions": ""
+  },
+  "108": {
+    "course": "Daisy Circuit",
+    "description": "The player had to go through a total of 22 gates, which were placed around the figure-8 area of the track. A single Mushroom was placed around the starting area.",
+    "restrictions": ""
+  },
+  "137": {
+    "course": "Daisy Circuit",
+    "description": "The player had to go through a total of 22 gates, which were placed around the figure-8 area of the track. A single Mushroom was placed around the starting area.",
+    "restrictions": ""
+  },
+  "37": {
+    "course": "Dry Dry Ruins",
+    "description": "A VS Race where all Item Boxes contained mushroom items; Mushrooms, Triple Mushrooms, Golden Mushrooms, and Mega Mushrooms. Also, some Pokeys were added to block some of the usable shortcuts.",
+    "restrictions": ""
+  },
+  "38": {
+    "course": "Rainbow Road",
+    "description": "The player had to race 3 laps, while avoiding the various Chain Chomps, similar to N64 Rainbow Road. The player started the race with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "63": {
+    "course": "Rainbow Road",
+    "description": "The player had to race 3 laps, while avoiding the various Chain Chomps, similar to N64 Rainbow Road. The player started the race with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "80": {
+    "course": "Rainbow Road",
+    "description": "The player had to race 3 laps, while avoiding the various Chain Chomps, similar to N64 Rainbow Road. The player started the race with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "109": {
+    "course": "Rainbow Road",
+    "description": "The player had to race 3 laps, while avoiding the various Chain Chomps, similar to N64 Rainbow Road. The player started the race with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "138": {
+    "course": "Rainbow Road",
+    "description": "The player had to race 3 laps, while avoiding the various Chain Chomps, similar to N64 Rainbow Road. The player started the race with a set of Triple Mushrooms.",
+    "restrictions": "Karts only"
+  },
+  "39": {
+    "course": "DS Desert Hills",
+    "description": "Using items from the Item Boxes, the player had to defeat a total of 10 Pokeys, which were wandering around the course, just as they did in one of the Mario Kart DS missions. The first and third set of Item Boxes contained Stars, while the second set contained Triple Green Shells.",
+    "restrictions": ""
+  },
+  "41": {
+    "course": "Delfino Pier",
+    "description": "A time trial race where as time progressed, new paths opened up. The water level rose slowly along the way. Goombas also appeared on the track. Item Boxes contained Green Shells and Mushrooms. The player did not start with any items.",
+    "restrictions": ""
+  },
+  "81": {
+    "course": "Delfino Pier",
+    "description": "A time trial race where as time progressed, new paths opened up. The water level rose slowly along the way. Goombas also appeared on the track. Item Boxes contained Green Shells and Mushrooms. The player did not start with any items.",
+    "restrictions": ""
+  },
+  "110": {
+    "course": "Delfino Pier",
+    "description": "A time trial race where as time progressed, new paths opened up. The water level rose slowly along the way. Goombas also appeared on the track. Item Boxes contained Green Shells and Mushrooms. The player did not start with any items.",
+    "restrictions": ""
+  },
+  "139": {
+    "course": "Delfino Pier",
+    "description": "A time trial race where as time progressed, new paths opened up. The water level rose slowly along the way. Goombas also appeared on the track. Item Boxes contained Green Shells and Mushrooms. The player did not start with any items.",
+    "restrictions": ""
+  },
+  "42": {
+    "course": "GCN DK Mountain",
+    "description": "The player had to pass through 20 gates, and the bridge was replaced with two Mushroom Trampolines from Mushroom Gorge.",
+    "restrictions": "Wii Wheel only"
+  },
+  "82": {
+    "course": "GCN DK Mountain",
+    "description": "The player had to pass through 20 gates, and the bridge was replaced with two Mushroom Trampolines from Mushroom Gorge.",
+    "restrictions": "Wii Wheel only"
+  },
+  "111": {
+    "course": "GCN DK Mountain",
+    "description": "The player had to pass through 20 gates, and the bridge was replaced with two Mushroom Trampolines from Mushroom Gorge.",
+    "restrictions": "Wii Wheel only"
+  },
+  "140": {
+    "course": "GCN DK Mountain",
+    "description": "The player had to pass through 20 gates, and the bridge was replaced with two Mushroom Trampolines from Mushroom Gorge.",
+    "restrictions": "Wii Wheel only"
+  },
+  "43": {
+    "course": "N64 Sherbet Land",
+    "description": "A three lap VS race with more penguins, and some boxes were also added onto the track.",
+    "restrictions": ""
+  },
+  "44": {
+    "course": "Mario Circuit",
+    "description": "The player had to defeat a total of 16 Goombas, using only Stars and Green Shells.",
+    "restrictions": "Karts only"
+  },
+  "83": {
+    "course": "Mario Circuit",
+    "description": "The player had to defeat a total of 16 Goombas, using only Stars and Green Shells.",
+    "restrictions": "Karts only"
+  },
+  "112": {
+    "course": "Mario Circuit",
+    "description": "The player had to defeat a total of 16 Goombas, using only Stars and Green Shells.",
+    "restrictions": "Karts only"
+  },
+  "141": {
+    "course": "Mario Circuit",
+    "description": "The player had to defeat a total of 16 Goombas, using only Stars and Green Shells.",
+    "restrictions": "Karts only"
+  },
+  "47": {
+    "course": "GCN Peach Beach",
+    "description": "A time trial race where players ran over the Mushroom Gorge Mushroom Trampolines in the sea. The player did not start with any items, nor were there any item boxes.",
+    "restrictions": ""
+  },
+  "84": {
+    "course": "GCN Peach Beach",
+    "description": "A time trial race where players ran over the Mushroom Gorge Mushroom Trampolines in the sea. The player did not start with any items, nor were there any item boxes.",
+    "restrictions": ""
+  },
+  "113": {
+    "course": "GCN Peach Beach",
+    "description": "A time trial race where players ran over the Mushroom Gorge Mushroom Trampolines in the sea. The player did not start with any items, nor were there any item boxes.",
+    "restrictions": ""
+  },
+  "142": {
+    "course": "GCN Peach Beach",
+    "description": "A time trial race where players ran over the Mushroom Gorge Mushroom Trampolines in the sea. The player did not start with any items, nor were there any item boxes.",
+    "restrictions": ""
+  },
+  "48": {
+    "course": "Moonview Highway",
+    "description": "A time trial race in which all the vehicles were going the opposing direction on all sides of the road, similar to the Mirror Mode version of N64 Toad's Turnpike. Players started the race with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "85": {
+    "course": "Moonview Highway",
+    "description": "A time trial race in which all the vehicles were going the opposing direction on all sides of the road, similar to the Mirror Mode version of N64 Toad's Turnpike. Players started the race with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "114": {
+    "course": "Moonview Highway",
+    "description": "A time trial race in which all the vehicles were going the opposing direction on all sides of the road, similar to the Mirror Mode version of N64 Toad's Turnpike. Players started the race with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "143": {
+    "course": "Moonview Highway",
+    "description": "A time trial race in which all the vehicles were going the opposing direction on all sides of the road, similar to the Mirror Mode version of N64 Toad's Turnpike. Players started the race with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "55": {
+    "course": "DS Delfino Square",
+    "description": "A time trial race with the addition of Goombas, crates, and dead end routes. Players started the race with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "89": {
+    "course": "DS Delfino Square",
+    "description": "A time trial race with the addition of Goombas, crates, and dead end routes. Players started the race with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "118": {
+    "course": "DS Delfino Square",
+    "description": "A time trial race with the addition of Goombas, crates, and dead end routes. Players started the race with a set of Triple Mushrooms.",
+    "restrictions": ""
+  },
+  "116": {
+    "course": "Mushroom Gorge",
+    "description": "The player had to get the fastest possible time driving backwards for the entire course. Some of the Mushroom Trampolines and Mushroom Platforms were also placed at different locations.",
+    "restrictions": "Karts only"
+  },
+  "67": {
+    "course": "Block Plaza",
+    "description": "A time trial race around the edge of the course. Some of the paths were blocked, so the player had to use the slopes to proceed. The player was given Triple Mushrooms to start the Time Trial, and obstacles include Goombas, pipes, and oil slicks. In its first appearance, the tournament description incorrectly displayed the tournament for GBA Bowser's Castle 3 instead of Block Plaza.",
+    "restrictions": ""
+  }
+}

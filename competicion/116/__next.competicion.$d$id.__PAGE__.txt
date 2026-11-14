@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:"/mario-kart-wii/_next/static/chunks/0wk7lpir22kbp.js"
+3:"/mario-kart-wii/_next/static/chunks/1bvhuho7qqb1-.js"
+4:I[3020,["$2","$3"],"SiteHeader"]
+5:I[39756,["$2","$3"],"default"]
+6:I[37457,["$2","$3"],"default"]
+d:I[22016,["$2","$3"],""]
+10:"/mario-kart-wii/_next/static/chunks/255dyytzhvly3.js"
+11:"/mario-kart-wii/_next/static/chunks/1gnoybqd1l1rg.js"
+12:I[9250,["$2","$3","$10","$11"],"CompetitionView"]
+17:"ViewportBoundary"
+18:I[97367,["$2","$3"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$2","$3"],"$19"]
+1b:"$Sreact.suspense"
+1c:I[27201,["$2","$3"],"IconMark"]
+:HL["/mario-kart-wii/_next/static/chunks/1gy4sy3v3lu46.css","style"]
+8:X
+b:X
+b:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L12",null,{"competition":{"id":116,"start":"2013-02-15","end":"2013-02-25","course":"Mushroom Gorge","description":"The player had to get the fastest possible time driving backwards for the entire course. Some of the Mushroom Trampolines and Mushroom Platforms were also placed at different locations.","restrictions":"Karts only","repeatOf":4,"worldwideCount":577,"regionCounts":{"Japan":109,"North America":108,"Europe":110,"Australia":109,"Korea":100},"official":{"player":"GυN★Gίちκめ★","time":"1:50.079","timeMs":110079,"country":"France","region":"Europe","character":"Daisy","vehicle":"Wild Wing","controller":"Classic Controller","anomalous":false,"rank":1},"champion":{"player":"GυN★Gίちκめ★","time":"1:50.079","timeMs":110079,"country":"France","region":"Europe","character":"Daisy","vehicle":"Wild Wing","controller":"Classic Controller","anomalous":false,"rank":1}}}],["$L13","$L14"],"$L15"]}],"p":"$@16","v":null,"s":"$8"}}]]
+c:[["children",{"s":{"n":"id","t":"d","k":"116","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[["$","div",null,{"children":[["$","h1",null,{"className":"font-serif text-4xl","children":"Esa competición no está en el archivo"}],["$","p",null,{"className":"mt-3 text-ink-soft","children":"Hubo 145, numeradas del 1 al 145."}],["$","$Ld",null,{"href":"/","className":"mt-6 inline-block font-semibold underline","children":"Volver al listado"}]]}],[]]}]]}],"p":"$@e","v":"$b","s":"$8"},"c":"$Qf"}]]
+9:[["children",{"s":"competicion","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mario-kart-wii/_next/static/chunks/1gy4sy3v3lu46.css","precedence":"next"}],["$","script","script-0",{"src":"/mario-kart-wii/_next/static/chunks/0wk7lpir22kbp.js","async":true}],["$","script","script-1",{"src":"/mario-kart-wii/_next/static/chunks/1bvhuho7qqb1-.js","async":true}]],["$","html",null,{"lang":"es","className":"xUdJIq_variable yOPAFW_variable h-full","children":["$","body",null,{"className":"flex min-h-full flex-col antialiased","children":[["$","$L4",null,{}],["$","main",null,{"className":"mx-auto w-full max-w-6xl flex-1 px-4 py-8 sm:px-6 sm:py-10","children":["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}],["$","footer",null,{"className":"mt-auto border-t border-line","children":["$","div",null,{"className":"mx-auto max-w-6xl px-4 py-8 text-sm leading-6 text-ink-soft sm:px-6","children":[["$","p",null,{"children":["Copia de conservación del ","14 de noviembre de 2026",", tomada de"," ",["$","a",null,{"className":"underline","href":"https://ninrankings.org/competitions/","children":"ninrankings.org"}],". Las tablas las publicó Nintendo en el Canal Mario Kart. Sus servidores cerraron el 20 de mayo de 2014. El circuito y las reglas de cada prueba están resumidos a partir de la"," ",["$","a",null,{"className":"underline","href":"https://www.mariowiki.com/List_of_Mario_Kart_Wii_tournaments","children":"Super Mario Wiki"}],"."]}],["$","p",null,{"className":"mt-3","children":"Cada tabla guarda todas las filas que esa web todavía publica. En unos mundiales son unos cientos y en otros pasan de mil: allí no hay un tope fijo de 1000. Japón, Norteamérica, Europa y Australia conservan su propia tabla. Corea no devuelve filas. Un tiempo por debajo de cinco segundos se marca como anómalo: el servidor oficial aceptó marcas imposibles, como 0:00.001. Esas filas siguen en la tabla, en su puesto. El campeón que cuenta en las estadísticas es el primer tiempo real."}]]}]}]]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"116. Barranco Champiñón · Mario Kart Wii"}],["$","meta","1",{"name":"description","content":"Archivo de las 145 competiciones oficiales de Mario Kart Wii, con todas las clasificaciones que todavía publica ninrankings.org."}],["$","link","2",{"rel":"icon","href":"/mario-kart-wii/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1c","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$8"}},"a":"$@1e","u":"$@1f","b":"ZRPZlZbTLyC8Uql5azHSk"}
+20:I[97367,["$2","$3"],"OutletBoundary"]
+13:["$","script","script-0",{"src":"/mario-kart-wii/_next/static/chunks/255dyytzhvly3.js","async":true}]
+14:["$","script","script-1",{"src":"/mario-kart-wii/_next/static/chunks/1gnoybqd1l1rg.js","async":true}]
+15:["$","$L20",null,{"children":["$","$1b",null,{"name":"Next.MetadataOutlet","children":"$@21"}]}]
+8:300
+21:null
+1f:true
+8:C
+1e:0
+e:"$undefined"
+a:"$undefined"
+7:"$undefined"
+1d:"$undefined"
+16:"$undefined"
