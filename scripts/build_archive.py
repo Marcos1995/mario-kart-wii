@@ -473,7 +473,7 @@ def build_indexes(meta: dict[int, dict[str, str]]) -> None:
     }
     (DATA / "catalog.json").write_text(json.dumps(catalog, ensure_ascii=False, separators=(",", ":")))
 
-    def top(field: str, limit: int = 40) -> list[dict[str, object]]:
+    def top(field: str) -> list[dict[str, object]]:
         ranked = sorted(
             players.values(),
             key=lambda item: (-len(item[field]), str(item["name"]).lower()),  # type: ignore[arg-type]
@@ -485,8 +485,6 @@ def build_indexes(meta: dict[int, dict[str, str]]) -> None:
             if not titles:
                 break
             output.append({"player": item["name"], "count": len(titles), "competitions": titles})
-            if len(output) >= limit:
-                break
         return output
 
     leaders = {
@@ -496,7 +494,7 @@ def build_indexes(meta: dict[int, dict[str, str]]) -> None:
         "northAmerica": top("northAmericaTitles"),
         "australia": top("australiaTitles"),
         "korea": top("koreaTitles"),
-        "podiums": top("podiums", 40),
+        "podiums": top("podiums"),
     }
     (DATA / "leaders.json").write_text(json.dumps(leaders, ensure_ascii=False, separators=(",", ":")))
 

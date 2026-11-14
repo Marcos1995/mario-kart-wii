@@ -19,8 +19,9 @@ export default function StatsPage() {
         Cada edición cuenta por separado, también cuando Nintendo repitió la
         misma prueba. Un mundial es el mejor tiempo real de la tabla mundial.
         Europa, Japón, Norteamérica y Australia cuentan el mejor tiempo real de
-        su propia tabla. Dos nombres distintos son dos jugadores, aunque fueran
-        la misma persona con otra cuenta.
+        su propia tabla. Sale todo el que ganó al menos una vez. El nombre es
+        el que figuraba en esa tabla: un cambio de nombre, u otra cuenta en la
+        misma consola, queda en otra fila.
       </p>
       <div className="mt-8">
         <LeadersBoard

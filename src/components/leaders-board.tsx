@@ -4,7 +4,8 @@ import Link from "next/link";
 import { useState } from "react";
 import type { Leader } from "@/lib/types";
 import { Button } from "@/components/ui/button";
-import { courseName } from "@/lib/names";
+import { Input } from "@/components/ui/input";
+import { courseName, fold } from "@/lib/names";
 import { competitionById } from "@/lib/archive";
 
 export function LeadersBoard({
@@ -20,7 +21,12 @@ export function LeadersBoard({
 }) {
   const available = boards.filter((board) => board.rows.length > 0);
   const [current, setCurrent] = useState(available[0]?.id ?? "");
+  const [query, setQuery] = useState("");
   const board = available.find((item) => item.id === current) ?? available[0];
+  const needle = fold(query.trim());
+  const rows = board
+    ? board.rows.filter((row) => !needle || fold(row.player).includes(needle))
+    : [];
 
   if (!board) {
     return <p>Todavía no hay campeones en la copia.</p>;
@@ -41,11 +47,30 @@ export function LeadersBoard({
           </Button>
         ))}
       </div>
+      <label className="mt-6 block max-w-xl">
+        <span className="mb-2 block text-sm font-semibold text-ink">
+          Buscar en esta lista
+        </span>
+        <Input
+          value={query}
+          onChange={(event) => setQuery(event.target.value)}
+          placeholder="Por ejemplo, jam"
+          autoComplete="off"
+        />
+      </label>
+      <p className="mt-3 text-sm text-ink-soft">
+        {rows.length} de {board.rows.length} {board.rows.length === 1 ? "jugador" : "jugadores"}
+      </p>
+      {rows.length === 0 ? (
+        <p className="mt-6 text-ink-soft">
+          Nadie de esta lista tiene «{query.trim()}» en el nombre.
+        </p>
+      ) : null}
       <ol className="mt-6 divide-y divide-line border-y border-line">
-        {board.rows.map((row, index) => (
+        {rows.map((row) => (
           <li key={row.player} className="grid gap-3 py-4 sm:grid-cols-[3rem_1fr]">
             <p className="font-serif text-3xl leading-none text-ribbon">
-              {index + 1}
+              {board.rows.indexOf(row) + 1}
             </p>
             <div>
               <p className="font-serif text-2xl text-ink">
